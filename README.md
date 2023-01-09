@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejal710&show_icons=true&locale=en" alt="sejal710" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&" alt="sejal710" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&theme=sea" alt="sejal710" /></p>
 <div>
  <a href="https://github.com/sejal710/github-readme-activity-graph"><img alt="sejal710 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sejal710&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <div> 
