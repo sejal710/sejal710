@@ -33,6 +33,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejal710&show_icons=true&locale=en" alt="sejal710" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&theme=sea" alt="sejal710" /></p>
+<br/>
+    <h3 align="center"> 
+        Visitor count <br>
+        <img src="https://profile-counter.glitch.me/sejal710&theme=sea/count.svg" />
+      </h3>
 <div>
  <a href="https://github.com/sejal710/github-readme-activity-graph">
   <img alt="sejal710 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sejal710&bg_color=FFFFFF&color=1E88E5&line=1E88E5&point=42A5F5&hide_border=true" /></a>
