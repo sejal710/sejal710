@@ -38,7 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejal710&show_icons=true&locale=en" alt="sejal710" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&theme=sea" alt="sejal710" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&hide_border=true&theme=sea" />
 </p>
 <br/>
     <h3 align="center"> 
