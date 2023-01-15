@@ -33,7 +33,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejal710" alt="sejal710" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs?username=sejal710&show_icons=true&locale=en&layout=compact" alt="sejal710" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sejal710&show_icons=true&locale=en&layout=compact" alt="sejal710" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal710&show_icons=true&locale=en" alt="sejal710" /></p>
 
