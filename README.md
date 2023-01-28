@@ -32,7 +32,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sejal710&show_icons=true&locale=en&layout=compact" alt="sejal710" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal710&show_icons=true&locale=en" alt="sejal710" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&theme=sea" alt="sejal710" />
