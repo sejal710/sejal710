@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **710sejal@gmail.com**
 
-- ⚡ Fun fact I think I'm funny 😃
+- ⚡ My perfect day would start with creating problem and end with solving problem.😅
 
 - 🔭 I’m currently working on DSA
 
