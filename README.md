@@ -68,5 +68,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=sea)
  
- 
-###Sejal Jaiswal 💛🤍💛
+ <h3 align="center"> ----- Sejal Jaiswal 💛🤍💛 ------ </h3>
