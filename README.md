@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Devlopment**
 
-- 💬 💬 Ask me about **HTML, CSS, JavaScript,Typescript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, Git & Bash**.
+- 💬 Ask me about **HTML, CSS, JavaScript,Typescript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, Git & Bash**.
 
 - 📫 How to reach me **710sejal@gmail.com**
 
