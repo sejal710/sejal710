@@ -43,6 +43,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal710&theme=sea" alt="sejal710" />
 </p>
+
+<br/>
+
+## Leetcode Stats 🔥
+[![Leetcode Stats](https://leetcard.jacoblin.cool/710sejal?theme=unicorn)](https://www.leetcode.com/710sejal)
+
 <br/>
     <h3 align="center"> 
         Visitor count <br>
