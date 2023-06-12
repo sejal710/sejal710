@@ -41,6 +41,9 @@
 [![Chakra UI](https://img.icons8.com/color/48/000000/chakra-ui.png)](https://chakra-ui.com/)
 [![API](https://img.icons8.com/ios-filled/50/000000/api.png)](https://en.wikipedia.org/wiki/Application_programming_interface)
 [![DSA](https://img.icons8.com/dusk/50/000000/data-configuration.png)](https://en.wikipedia.org/wiki/Data_structure)
+[![Heroku](https://img.icons8.com/color/48/000000/heroku.png)](https://www.heroku.com/)
+[![Netlify](https://img.icons8.com/?size=2x&id=sBo1RJ3rjbje&format=png)](https://www.netlify.com/)
+[![Vercel](https://img.icons8.com/?size=2x&id=93873&format=png)](https://vercel.com/)
 [![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](https://flutter.dev/)
 [![Dart](https://img.icons8.com/color/48/000000/dart.png)](https://dart.dev/)
 
