@@ -26,26 +26,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/docs/latest/api/) 
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
-[![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)
-[![Next.js](https://img.icons8.com/color/48/000000/next.png)](https://nextjs.org/)
-[![Express.js](https://img.icons8.com/color/48/000000/express.png)](https://expressjs.com/)
-[![Mongoose](https://img.icons8.com/color/48/000000/mongoose.png)](https://mongoosejs.com/)
-[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
-[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/)
-[![Chakra UI](https://img.icons8.com/color/48/000000/chakra-ui.png)](https://chakra-ui.com/)
-[![API](https://img.icons8.com/ios-filled/50/000000/api.png)](https://en.wikipedia.org/wiki/Application_programming_interface)
-[![DSA](https://img.icons8.com/dusk/50/000000/data-configuration.png)](https://en.wikipedia.org/wiki/Data_structure)
-[![Heroku](https://img.icons8.com/color/48/000000/heroku.png)](https://www.heroku.com/)
-[![Netlify](https://img.icons8.com/?size=2x&id=sBo1RJ3rjbje&format=png)](https://www.netlify.com/)
-[![Vercel](https://img.icons8.com/?size=2x&id=93873&format=png)](https://vercel.com/)
-[![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](https://flutter.dev/)
-[![Dart](https://img.icons8.com/color/48/000000/dart.png)](https://dart.dev/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js Logo](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redux Logo](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MongoDB Logo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
  <br/>
