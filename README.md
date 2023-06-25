@@ -17,7 +17,7 @@
 - 👨‍💻 Some of my projects are available at https://sejal710.github.io/
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center" margin='auto'>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-jaiswal-645b4b217)
@@ -28,6 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="center" margin='auto'>
+ 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -56,7 +58,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+</p>
 
  <br/>
  
